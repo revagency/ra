@@ -8,10 +8,10 @@
 <channel>
 	<title>
 	Comments for REVENGE.AGENCY	</title>
-	<atom:link href="https://revenge.agency/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://revenge.agency/</link>
+	<atom:link href="//revenge.agency/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>//revenge.agency/</link>
 	<description>Getting you the restitution you deserve.</description>
-	<lastBuildDate>Fri, 15 Jan 2021 15:17:47 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 14 Jan 2021 10:42:18 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
