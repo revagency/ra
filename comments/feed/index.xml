@@ -8,14 +8,14 @@
 <channel>
 	<title>
 	Comments for REVENGE.AGENCY	</title>
-	<atom:link href="//revenge.agency/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>//revenge.agency/</link>
+	<atom:link href="https://revenge.agency/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://revenge.agency</link>
 	<description>Getting you the restitution you deserve.</description>
-	<lastBuildDate>Sun, 17 Jan 2021 16:17:37 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 16 Mar 2023 03:57:30 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.6</generator>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
 </channel>
 </rss>
