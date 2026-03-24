@@ -9,7 +9,6 @@
 
 # Common exclusions for Workers
 node_modules/
-dist/
 build/
 .wrangler/
 .env
