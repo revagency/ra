@@ -4,3 +4,13 @@
 !.dev.vars.example
 .env*
 !.env.example
+# Git directory
+.git/
+
+# Common exclusions for Workers
+node_modules/
+dist/
+build/
+.wrangler/
+.env
+*.log
